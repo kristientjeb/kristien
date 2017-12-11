@@ -1,0 +1,10 @@
+access-control-allow-origin: *
+cache-control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+connection: keep-alive
+content-length: 0
+content-type: application/json
+date: Mon, 11 Dec 2017 18:10:54 GMT
+expires: Thu, 19 Nov 1981 08:52:00 GMT
+pragma: no-cache
+server: openresty/1.11.2.5
+x-powered-by: PHP/5.6.30-12~ubuntu16.04.1+deb.sury.org+1
